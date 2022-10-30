@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening1", "Oefening1\Oefening1.csproj", "{2F2B8EE7-F972-4C60-B301-898A56D2C560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening3", "Oefening3\Oefening3.csproj", "{56CDCCB9-CC81-481A-A334-A5E69B3DE932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening2", "Oefening2\Oefening2.csproj", "{BCC370A6-B1B4-49E6-A7A1-E62BF651EA2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F2B8EE7-F972-4C60-B301-898A56D2C560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2B8EE7-F972-4C60-B301-898A56D2C560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2B8EE7-F972-4C60-B301-898A56D2C560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2B8EE7-F972-4C60-B301-898A56D2C560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56CDCCB9-CC81-481A-A334-A5E69B3DE932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CDCCB9-CC81-481A-A334-A5E69B3DE932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CDCCB9-CC81-481A-A334-A5E69B3DE932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CDCCB9-CC81-481A-A334-A5E69B3DE932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC370A6-B1B4-49E6-A7A1-E62BF651EA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC370A6-B1B4-49E6-A7A1-E62BF651EA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC370A6-B1B4-49E6-A7A1-E62BF651EA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC370A6-B1B4-49E6-A7A1-E62BF651EA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03746D99-21F2-414E-9C08-5BF2788631A8}
+	EndGlobalSection
+EndGlobal
